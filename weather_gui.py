@@ -10,7 +10,7 @@ class WeatherApp:
         self.root.resizable(False, False)
 
         # OpenWeatherMap API key (replace with your own)
-        self.api_key = "9223d19a9a11570febce512f9d40e296"  # Get from openweathermap.org
+        self.api_key = "******************************"  # Get from openweathermap.org
 
         # Create main frame
         self.main_frame = ttk.Frame(self.root, padding="10")
